@@ -1,0 +1,30 @@
+
+
+.ant-select-selection-overflow {
+  min-width: 25%;
+  
+    display: flex;
+    flex: auto;
+    flex-wrap: wrap;
+
+}
+
+.ant-select:not(.ant-select-disabled):hover.ant-select-selector{
+    min-width: 25%;
+
+}
+ 
+.ant-select-tree-node-content-wrapper.ant-select-tree-node-content-wrapper-normal{
+    min-width: 25%;
+
+}
+
+div.ant-select.ant-tree-select.ant-select-multiple.ant-select-open .ant-select-show-search{
+    min-width: 25%;
+
+}
+
+.ant-select.ant-tree-select{
+  min-width: 25%;
+    
+}

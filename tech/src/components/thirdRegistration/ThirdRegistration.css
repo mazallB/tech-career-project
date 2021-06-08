@@ -1,0 +1,72 @@
+
+.step-3-btns{
+  display: flex;
+  flex-direction: column;
+  justify-content:space-between ;
+  justify-content: center;
+  text-align: center;
+  
+
+}
+
+.third-step-btn{
+  display: flex;
+  flex-direction: column;
+  justify-content:space-between ;
+  align-items:flex-end;
+  /* border: 2px solid; */
+  /* align-self: center; */
+  /* text-align: center; */
+
+
+}
+
+.third-registration-form{
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+  justify-content:space-between ;
+  text-align: center;
+
+  
+}
+
+.date{
+  /* display: flex; */
+  align-items: center;
+
+}
+
+
+
+.course-date{
+  /* display: flex; */
+  width: 300px; 
+}
+
+.code-languages{
+  display: flex;
+
+}
+.about-you{
+  display: flex;
+  width: 300px; 
+}
+
+.facebook{
+  display: flex;
+  width: 300px; 
+}
+.github{
+  display: flex;
+  width: 300px; 
+}
+.linkdin{
+  display: flex;
+  width: 300px; 
+}
+
+.third-ok-btn{
+  width: 300px; 
+
+}

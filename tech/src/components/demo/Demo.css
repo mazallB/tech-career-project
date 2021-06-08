@@ -1,0 +1,20 @@
+
+
+.form{
+    display: flex;
+
+    border: 2px solid #7dbcea;
+    /* border-radius: 1%; */
+    width: 25%;
+    flex-direction: row;
+    float: right;
+    padding-top: 20px;
+}
+
+a{
+    color:black;
+}
+
+a :hover{
+    color:white;
+}
